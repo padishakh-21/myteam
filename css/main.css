@@ -58,7 +58,7 @@ body {
 
 .header-wrapper {
     background-color: rgb(1, 78, 86);
-    /* background-image: url(../images/aroun-2.svg);
+    /* background-image: url("../images/aroun-2.svg");
     background-repeat: no-repeat;
     background-position: top left; */
 }
@@ -137,7 +137,7 @@ body {
 }
 
 .section-heading {
-    width: 635px;
+    max-width: 635px;
     margin: 0;
     font-size: 105px;
     color: rgb(255, 255, 255);

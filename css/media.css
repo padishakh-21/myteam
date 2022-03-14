@@ -1,0 +1,16 @@
+@media only screen and (max-width:650px) {
+    .nav-list {
+        display: flex;
+        align-items: center;
+        list-style-type: none;
+        margin: 0;
+        margin-left: 28px;
+        padding: 0;
+    }
+    .header-wrapper__header-img {
+        display: none;
+    }
+    .section-heading {
+        max-width: 650px;
+    }
+}
